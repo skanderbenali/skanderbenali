@@ -10,4 +10,12 @@ I'm a passionate and experienced software engineer with 5 years of expertise in 
 - Data Analysis
 - Machine Learning Enthusiast
 
+### Skills:
+- **Languages:** Java, JavaScript, HTML5, CSS3, PHP, C++, Python, C#, Bash
+- **Frameworks & Libraries:** Node.js, Vue, Nuxt, React, Angular, Symfony, .NET, JQuery, Bootstrap, Tailwindcss, Spring Boot, Spring Maven, JavaFx
+- **Databases:** MongoDB, MySQL, Oracle, PostgreSQL, Redis, Elasticsearch
+- **Tools & Platforms:** Docker, Git, DevOps, Kibana, Logstash
+- **Design & Visualization:** Adobe Photoshop, Adobe Illustrator, Adobe XD, Data Visualization
+- **Other:** XML, API, Administration SI
+
 🌟 I'm always eager to learn and collaborate on exciting projects. Let's connect and build something amazing together!
