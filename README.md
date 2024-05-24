@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Skander Benali!
 
-<!--
-**skanderbenali/skanderbenali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and experienced software engineer with 5 years of expertise in web development. I specialize in full-stack JavaScript development and Spring Boot. My skill set also includes data analysis and a strong interest in machine learning.
 
-Here are some ideas to get you started:
+🚀 Currently, I'm the CTO at Infotexa, where I lead innovative projects and drive technical excellence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do:
+- Full-Stack JavaScript Development
+- Spring Boot Development
+- Data Analysis
+- Machine Learning Enthusiast
+
+🌟 I'm always eager to learn and collaborate on exciting projects. Let's connect and build something amazing together!
