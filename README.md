@@ -19,3 +19,6 @@ I'm a passionate and experienced software engineer with 5 years of expertise in 
 - **Other:** XML, API, Administration SI
 
 🌟 I'm always eager to learn and collaborate on exciting projects. Let's connect and build something amazing together!
+
+### 🎓 Certifications & Badges:
+- 🏅 [Microsoft - Generative AI Fundamentals](https://learn.microsoft.com/api/achievements/share/en-us/SkanderBenali-3776/QSTZFZAE?sharingId=17AC7FD97104DEA7)
