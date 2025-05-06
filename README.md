@@ -4,7 +4,7 @@ I'm a passionate and experienced software engineer with 5 years of expertise in 
 
 🚀 Currently, I'm the CTO&Co-founder at Infotexa, where I lead innovative projects and drive technical excellence.
 
-### W🚀 What I Do:
+### 🚀 What I Do:
 - Full-Stack Development with JavaScript, PHP, Java & C# (React, Vue, Angular, Symfony, .NET, Spring Boot)
 - Cloud & AI Integrations using IBM Watson, Vortex AI, and DevOps tools (Docker, Git)
 - Data Engineering & Analysis with Elasticsearch, Kibana, Logstash, and Python
