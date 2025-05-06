@@ -26,5 +26,7 @@ I'm a passionate and experienced software engineer with 5 years of expertise in 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=skanderbenali&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skanderbenali&layout=compact)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skanderbenali)](https://github.com/skanderbenali/github-readme-stats)
+
 
 
