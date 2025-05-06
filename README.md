@@ -2,7 +2,7 @@
 
 I'm a passionate and experienced software engineer with 5 years of expertise in web development. I specialize in full-stack JavaScript development and Spring Boot. My skill set also includes data analysis and a strong interest in machine learning.
 
-🚀 Currently, I'm the CTO&Co-founder at Infotexa, where I lead innovative projects and drive technical excellence.
+Currently, I'm the CTO & Co-founder at Infotexa, where I lead innovative projects and drive technical excellence.
 
 ### 🚀 What I Do:
 - Full-Stack Development with JavaScript, PHP, Java & C# (React, Vue, Angular, Symfony, .NET, Spring Boot)
