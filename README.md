@@ -11,12 +11,16 @@ I'm a passionate and experienced software engineer with 5 years of expertise in 
 - Machine Learning Enthusiast
 
 ### Skills:
-- **Languages:** Java, JavaScript, HTML5, CSS3, PHP, C++, Python, C#, Bash
-- **Frameworks & Libraries:** Node.js, Vue, Nuxt, React, Angular, Symfony, .NET, JQuery, Bootstrap, Tailwindcss, Spring Boot, Spring Maven, JavaFx
-- **Databases:** MongoDB, MySQL, Oracle, PostgreSQL, Redis, Elasticsearch
-- **Tools & Platforms:** Docker, Git, DevOps, Kibana, Logstash
-- **Design & Visualization:** Adobe Photoshop, Adobe Illustrator, Adobe XD, Data Visualization
-- **Other:** XML, API, Administration SI
+- **Languages:** Java, JavaScript, TypeScript, HTML5, CSS3, PHP, SQL, C++, Python, C#, Bash
+- **Frameworks & Libraries:** Node.js, Vue, Nuxt, React, Angular, Next.js, Express.js, Laravel, FastAPI, Prisma, Symfony, .NET, JQuery, Bootstrap, Tailwindcss, Spring Boot, Spring Maven, JavaFx
+- **Databases:** MongoDB, MySQL, SQLite, Oracle, PostgreSQL, Redis, Elasticsearch, Firebase, Supabase, AWS, GCP
+- **Tools & Platforms:** Docker, Git, DevOps, Kibana, Logstash, CI/CD – GitHub Actions, GitLab CI, CircleCI, Terraform, Vite
+- **Design & Visualization:** Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, Data Visualization
+- **Other:** XML, API, Administration SI, GraphQL, WebSockets, OAuth / JWT, Jest, Mocha, Cypress, Postman
+### 🧠 AI & Cloud Intelligence
+- IBM Watson: Natural Language Processing, Chatbot Development, Visual Recognition
+- Vortex AI: Real-time analytics, ML model deployment
+
 
 🌟 I'm always eager to learn and collaborate on exciting projects. Let's connect and build something amazing together!
 
