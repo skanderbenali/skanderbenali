@@ -4,11 +4,13 @@ I'm a passionate and experienced software engineer with 5 years of expertise in 
 
 🚀 Currently, I'm the CTO&Co-founder at Infotexa, where I lead innovative projects and drive technical excellence.
 
-### What I Do:
-- Full-Stack JavaScript Development
-- Spring Boot Development
-- Data Analysis
-- Machine Learning Enthusiast
+### W🚀 What I Do:
+- Full-Stack Development with JavaScript, PHP, Java & C# (React, Vue, Angular, Symfony, .NET, Spring Boot)
+- Cloud & AI Integrations using IBM Watson, Vortex AI, and DevOps tools (Docker, Git)
+- Data Engineering & Analysis with Elasticsearch, Kibana, Logstash, and Python
+- Cross-Platform Application Development (JavaFX, .NET, Bash, APIs)
+- Creative UI/UX Design using Adobe XD, Photoshop, Illustrator, and TailwindCSS
+- Machine Learning & Automation Enthusiast, experimenting with custom pipelines and intelligent systems
 
 ### Skills:
 - **Languages:** Java, JavaScript, TypeScript, HTML5, CSS3, PHP, SQL, C++, Python, C#, Bash
