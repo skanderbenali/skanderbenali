@@ -24,4 +24,4 @@ I'm a passionate and experienced software engineer with 5 years of expertise in 
 - 🏅 [Microsoft - Generative AI Fundamentals](https://learn.microsoft.com/api/achievements/share/en-us/SkanderBenali-3776/QSTZFZAE?sharingId=17AC7FD97104DEA7)
 - ☁️ [Google Cloud: Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/b4f47ee5-4676-4295-bfea-cfa9b4a54674/badges/15559592)
 
-![Metrics](https://raw.githubusercontent.com/yourusername/skanderbenali/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/skanderbenali/skanderbenali/main/github-metrics.svg)
