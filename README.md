@@ -31,6 +31,6 @@ Currently, I'm the CTO & Co-founder at Infotexa, where I lead innovative project
 - ☁️ [Google Cloud: Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/b4f47ee5-4676-4295-bfea-cfa9b4a54674/badges/15559592)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=skanderbenali&show_icons=true&theme=transparent)] ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skanderbenali&layout=compact&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=skanderbenali&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skanderbenali&layout=compact&show_icons=true&theme=transparent)
 
 
