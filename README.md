@@ -25,7 +25,7 @@ I'm a passionate and experienced software engineer with 5 years of expertise in 
 - ☁️ [Google Cloud: Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/b4f47ee5-4676-4295-bfea-cfa9b4a54674/badges/15559592)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=skanderbenali)](https://github.com/skanderbenali/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skanderbenali&layout=compact)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=skanderbenali&show_icons=true&theme=transparent)](https://github.com/skanderbenali/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skanderbenali&layout=compact)
 
 
 
