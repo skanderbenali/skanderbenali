@@ -30,9 +30,10 @@ Currently, I'm the CTO & Co-founder at Infotexa, where I lead innovative project
 - 🏅 [Microsoft - Generative AI Fundamentals](https://learn.microsoft.com/api/achievements/share/en-us/SkanderBenali-3776/QSTZFZAE?sharingId=17AC7FD97104DEA7)
 - ☁️ [Google Cloud: Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/b4f47ee5-4676-4295-bfea-cfa9b4a54674/badges/15559592)
 
+### 🖥️ Check out my portfolio: 
+[View Portfolio](https://skanderbenali.github.io/portfolio/)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=skanderbenali&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skanderbenali&layout=compact&show_icons=true&theme=transparent)
 
-### 🖥️ Check out my portfolio: 
-[View Portfolio](https://skanderbenali.github.io/portfolio/)
 
