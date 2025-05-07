@@ -33,4 +33,6 @@ Currently, I'm the CTO & Co-founder at Infotexa, where I lead innovative project
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=skanderbenali&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skanderbenali&layout=compact&show_icons=true&theme=transparent)
 
+### 🖥️ Check out my portfolio: 
+[View Portfolio](https://skanderbenali.github.io/portfolio/)
 
