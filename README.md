@@ -26,6 +26,8 @@ Currently, I'm the CTO & Co-founder at Infotexa, where I lead innovative project
 
 🌟 I'm always eager to learn and collaborate on exciting projects. Let's connect and build something amazing together!
 
+💼 Need a full-stack expert for your project? Let's talk! 📧 dev.skander.benali@gmailcom
+
 ### 🎓 Certifications & Badges:
 - 🏅 [Microsoft - Generative AI Fundamentals](https://learn.microsoft.com/api/achievements/share/en-us/SkanderBenali-3776/QSTZFZAE?sharingId=17AC7FD97104DEA7)
 - ☁️ [Google Cloud: Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/b4f47ee5-4676-4295-bfea-cfa9b4a54674/badges/15559592)
