@@ -31,7 +31,7 @@ Currently, I'm the CTO & Co-founder at Infotexa, where I lead innovative project
 ### 🎓 Certifications & Badges:
 - 🏅 [Microsoft - Generative AI Fundamentals](https://learn.microsoft.com/api/achievements/share/en-us/SkanderBenali-3776/QSTZFZAE?sharingId=17AC7FD97104DEA7)
 - ☁️ [Google Cloud: Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/b4f47ee5-4676-4295-bfea-cfa9b4a54674/badges/15559592)
-
+- [Responsive Web Design Certification – freeCodeCamp](https://www.freecodecamp.org/certification/fccca6a2e58-7a49-4c2b-ab6d-4b61a8243e6c/responsive-web-design)
 ### 🖥️ Check out my portfolio: 
 [View Portfolio](https://skanderbenali.github.io/portfolio/)
 
